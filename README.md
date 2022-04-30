@@ -24,12 +24,13 @@ Use the warpPerspective(image , matrix, (rows, columns)) function.
 
 Plot the Image and Transformed Image on the graph using matplotlib for identifying changes.
 
-##Step5:##
+## Step5: ##
 
 Diifferent operations has been performed on the image.
 
 ## Program: ##
 Developed By: GANAPATHI VENKATESH
+
 Register Number: 212220230018
 ```python
 
@@ -128,7 +129,7 @@ plt.axis("off")
 plt.imshow(crop_img)
 plt.show()
 ```
-##Output:##
+## Output: ##
 i)Image Translation
 
 ![image](https://github.com/20004426-venkatesh/Image-Transformation/blob/main/cr1.jpg)
@@ -153,6 +154,6 @@ vi)Image Cropping
 
 ![image](https://github.com/20004426-venkatesh/Image-Transformation/blob/main/cr6.jpg)
 
-##Result:##
+## Result: ##
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
 
