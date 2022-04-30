@@ -1,25 +1,26 @@
-Image-Transformation
-##Aim:##
+## Image-Transformation ##
+
+## Aim: ##
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
-Software Required:
+## Software Required: ##
 Anaconda - Python 3.7
 
-##Algorithm:##
+## Algorithm: ##
 
-##Step1:##
+## Step1: ##
 
 Import the required libraries and image for transformation.
 
-##Step2:##
+## Step2: ##
 
 Perform operations on the image like translaton, rotation and other.
 
-##Step3:##
+## Step3: ##
 
 Use the warpPerspective(image , matrix, (rows, columns)) function.
 
-##Step4:##
+## Step4: ##
 
 Plot the Image and Transformed Image on the graph using matplotlib for identifying changes.
 
