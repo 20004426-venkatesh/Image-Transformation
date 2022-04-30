@@ -30,6 +30,7 @@ Diifferent operations has been performed on the image.
 ## Program: ##
 Developed By: GANAPATHI VENKATESH
 Register Number: 212220230018
+```python
 
 
 #*i)Image Translation*
@@ -153,3 +154,4 @@ vi)Image Cropping
 
 ##Result:##
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
+
